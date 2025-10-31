@@ -18,6 +18,6 @@ title: Blog
   {% endfor %}
 </ul>
 
-{% if site.blog.size == 0 %}
+{% if site.posts.size == 0 %}
   <p>No news just yet, but I'm working on some! Check back soon. 🐸</p>
 {% endif %}
