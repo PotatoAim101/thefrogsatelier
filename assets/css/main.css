@@ -30,6 +30,11 @@ header, main, footer {
 }
 
 main {
+  width: 93%;
+  max-width: 1050px;   /* <-- SET THE NARROWER WIDTH HERE */
+  margin: 0 auto;
+  padding: 1.5rem 0;
+
   flex-grow: 1; /* Pushes footer to the bottom */
 }
 
