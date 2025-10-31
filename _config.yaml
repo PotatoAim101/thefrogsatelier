@@ -1,0 +1,10 @@
+title: "The Frog's Atelier"
+description: "My cozy and creative knitting corner."
+url: "https://thefrogsatelier.com"
+
+instagram_username: thefrogsatelier
+
+collections:
+  patterns:
+    output: true
+    permalink: /patterns/:name/
