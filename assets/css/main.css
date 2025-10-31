@@ -22,7 +22,7 @@ body {
 }
 
 /* page width */
-header, main, footer {
+header, footer {
   width: 96%;
   max-width: 1100px;
   margin: 0 auto;
