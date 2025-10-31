@@ -48,7 +48,7 @@ header {
 }
 
 .site-logo {
-  max-height: 70px;  /* <-- This is the main setting! Adjust 70px as needed. */
+  max-height: 60px;  /* <-- This is the main setting! Adjust 70px as needed. */
   width: auto;       /* This keeps the image's proportions correct */
   vertical-align: middle; /* Helps align the logo with your nav links */
 }
