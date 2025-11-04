@@ -7,7 +7,7 @@
 }
 /* 1. Apply the full-page background image */
 html {
-  background-image: url('asserts/images/msfrog_background.svg');
+  background-image: url('assets/images/msfrog_background.svg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
