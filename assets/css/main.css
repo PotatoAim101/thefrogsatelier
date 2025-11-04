@@ -5,7 +5,14 @@
   --accent-color: #adc990;
   --link-color: #b05c48;
 }
-
+/* 1. Apply the full-page background image */
+html {
+  background-image: url('asserts/images/msfrog_background.svg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
 body {
   /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;*/
@@ -13,6 +20,7 @@ body {
   font-weight: 300;
   line-height: 1.6;
   background-color: var(--bg-color);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   color: var(--text-color);
   margin: 0;
   padding: 0;
